@@ -1,7 +1,8 @@
 # HospatilityDomainDashboard
 This is a powerBI dasbord giving valuable business insights to hospitality domain 
 
-Key Takeaways from the Data Analytics Project
+
+KEY TAKEAWAYS FROM THE DATA ANALYTICS PROJECT
 
 Successfully created key metrics as per the provided metric list.
 
